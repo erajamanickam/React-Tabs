@@ -7,7 +7,7 @@ React Tabs is a versatile React component library designed to streamline the imp
 ## Screenshots
 
 
-![App Screenshot](https://i.ibb.co/2yJ8WSK/react-tabs.png)
+![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rw36yb4fbspmphzlf9no.png)
 
 
 ## Tech Stack
